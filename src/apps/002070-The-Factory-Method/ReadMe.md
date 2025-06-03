@@ -1,1 +1,0 @@
-The factory method apps.
